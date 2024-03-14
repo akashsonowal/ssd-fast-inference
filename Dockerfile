@@ -1,0 +1,1 @@
+FROM nvcr.io/nvidia/deepstream:5.0-20.07-triton
