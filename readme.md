@@ -1,5 +1,7 @@
 # ssd-inference-optimized
 
+Hacking Nvidia's SSD model for fast inference
+
 ## Python video pipeline
 
 1. frame probe python
